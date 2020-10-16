@@ -15,7 +15,7 @@ function TouristInfoCards() {
             populous city in the United Kingdom, as of the 2019 estimated city
             population of 611,748.
           </p>
-          <a href="https://peoplemakeglasgow.com/" className="btn btn-primary">
+          <a href="https://peoplemakeglasgow.com/" className="buttons-card">
             Go Glasgow
           </a>
         </div>
@@ -26,12 +26,11 @@ function TouristInfoCards() {
         <div className="card-body">
           <p>
             Manchester is a city and metropolitan borough in Greater Manchester,
-            England. It has a population of 547,627 as of 2018 . It lies within
-            the United Kingdom's second-most populous urban area, with a
-            population of 2.5 million[8] and third-most populous metropolitan
-            area, a population of 3.3 million.
+            England. It has a population of 547,627 as of 2018 . It is a
+             city with a population of 500,234
+            
           </p>
-          <a href="https://visitmanchester.com" className="btn btn-primary">
+          <a href="https://visitmanchester.com" className="buttons-card">
             Go Manchester
           </a>
         </div>
@@ -43,10 +42,10 @@ function TouristInfoCards() {
           <p>
             London is the capital and largest city of England and the United
             Kingdom. The city stands on the River Thames in the south-east of
-            England, at the head of its 50-mile (80 km) estuary leading to the
-            North Sea. London has been a major settlement for two millennia.
+            England,  50-mile (80 km) estuary leading to the
+            North Sea. 
           </p>
-          <a href="https://visitlondon.com" className="btn btn-primary">
+          <a href="https://visitlondon.com" className="buttons-card">
             Go London
           </a>
         </div>
